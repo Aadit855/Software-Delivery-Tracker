@@ -1,0 +1,11 @@
+repo,number,kind,age_days,title,url
+pydantic/pydantic,12884,issue,217,"extra='allow' can let alias/name collisions overwrite validated field output during serialization",https://github.com/pydantic/pydantic/issues/12884
+pydantic/pydantic,12912,issue,207,"`model_dump_json` of a model with a (discriminated) union is slow",https://github.com/pydantic/pydantic/issues/12912
+pydantic/pydantic,12937,issue,201,"Extra fields not dumped by `model_dump`",https://github.com/pydantic/pydantic/issues/12937
+pydantic/pydantic,12934,issue,201,"field_validator in Pydantic_dataclass not inherited from parent",https://github.com/pydantic/pydantic/issues/12934
+pydantic/pydantic,12995,issue,189,"Multiple sets of serializer wanings emitted when `WrapSerializer` used",https://github.com/pydantic/pydantic/issues/12995
+pydantic/pydantic,13024,issue,185,"`__pydantic_extra__` ignored if `extra = 'forbid'` at model level, overridden at runtime",https://github.com/pydantic/pydantic/issues/13024
+pydantic/pydantic,13085,issue,172,"Incomplete generic recursive models in Pydantic 2.13",https://github.com/pydantic/pydantic/issues/13085
+pydantic/pydantic,13281,issue,122,"Memory overflow when using type with large `__len__()`",https://github.com/pydantic/pydantic/issues/13281
+pydantic/pydantic,13300,issue,116,"`__pydantic_init_subclass__` cannot receive custom class keyword arguments without also defining `__init_subclass__`",https://github.com/pydantic/pydantic/issues/13300
+pydantic/pydantic,13327,issue,107,"Inconsistent serialization of non Pydantic models between union and single type",https://github.com/pydantic/pydantic/issues/13327

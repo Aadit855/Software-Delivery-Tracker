@@ -1,0 +1,18 @@
+{
+  "snapshot_utc": "2026-10-05T23:54:31+00:00",
+  "window_since": "2025-10-01T00:00:00Z",
+  "repos": {
+    "pallets/flask": {
+      "items": 291,
+      "truncated_at_cap": false
+    },
+    "psf/requests": {
+      "items": 847,
+      "truncated_at_cap": false
+    },
+    "pydantic/pydantic": {
+      "items": 1000,
+      "truncated_at_cap": true
+    }
+  }
+}
